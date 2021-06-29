@@ -1,0 +1,12 @@
+C:\Users\lakshmi.l\source\repos\StringValidation\StringValidation\bin\Debug\netcoreapp2.1\StringValidation.deps.json
+C:\Users\lakshmi.l\source\repos\StringValidation\StringValidation\bin\Debug\netcoreapp2.1\StringValidation.runtimeconfig.json
+C:\Users\lakshmi.l\source\repos\StringValidation\StringValidation\bin\Debug\netcoreapp2.1\StringValidation.runtimeconfig.dev.json
+C:\Users\lakshmi.l\source\repos\StringValidation\StringValidation\bin\Debug\netcoreapp2.1\StringValidation.dll
+C:\Users\lakshmi.l\source\repos\StringValidation\StringValidation\bin\Debug\netcoreapp2.1\StringValidation.pdb
+C:\Users\lakshmi.l\source\repos\StringValidation\StringValidation\obj\Debug\netcoreapp2.1\StringValidation.csprojAssemblyReference.cache
+C:\Users\lakshmi.l\source\repos\StringValidation\StringValidation\obj\Debug\netcoreapp2.1\StringValidation.AssemblyInfoInputs.cache
+C:\Users\lakshmi.l\source\repos\StringValidation\StringValidation\obj\Debug\netcoreapp2.1\StringValidation.AssemblyInfo.cs
+C:\Users\lakshmi.l\source\repos\StringValidation\StringValidation\obj\Debug\netcoreapp2.1\StringValidation.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.l\source\repos\StringValidation\StringValidation\obj\Debug\netcoreapp2.1\StringValidation.dll
+C:\Users\lakshmi.l\source\repos\StringValidation\StringValidation\obj\Debug\netcoreapp2.1\StringValidation.pdb
+C:\Users\lakshmi.l\source\repos\StringValidation\StringValidation\obj\Debug\netcoreapp2.1\StringValidation.genruntimeconfig.cache
